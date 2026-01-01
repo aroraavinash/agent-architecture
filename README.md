@@ -221,10 +221,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - MCP (Model Context Protocol) for tool integration
 - UV package manager for dependency management
 
-## 📞 Support
-
-For support, email avinash.ai2022@gmail.com or create an issue in the GitHub repository.
-
 ---
 
 **Built with ❤️ using Python, Google Gemini, and modern AI agent architecture patterns.**
