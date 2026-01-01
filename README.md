@@ -78,7 +78,7 @@ A sophisticated AI agent that performs mathematical computations, creates visual
 1. **Clone the repository**
    ```bash
    git clone <your-repo-url>
-   cd session6
+   cd agent-architecture
    ```
 
 2. **Install dependencies**
@@ -222,5 +222,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - UV package manager for dependency management
 
 ---
+
 
 **Built with ❤️ using Python, Google Gemini, and modern AI agent architecture patterns.**
