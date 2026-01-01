@@ -17,7 +17,7 @@ A sophisticated AI agent that performs mathematical computations, creates visual
 ## 🏗️ Architecture
 
 ```
-session6/
+.
 ├── main.py              # Main orchestration and iteration loop
 ├── perception.py        # LLM-based fact extraction and analysis
 ├── decision.py          # Response parsing and function call routing
